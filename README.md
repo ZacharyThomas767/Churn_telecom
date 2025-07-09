@@ -15,11 +15,18 @@ Delivered actionable business recommendations based on feature importance
 
 Achieved ROC-AUC score: 0.8126, with strong precision and recall on the churn class
 
-churn-prediction-project
+# churn-prediction-project-flow
+
 -data/                 # Raw datasets
+
 -notebooks/
+
   -churn_EDA.ipynb     # Initial analysis and plan of action
+  
   -Telecom Churn Prediction - Machine Learning.ipynb # tested machine learning models.
+  
   -Telicom ML solution Report.ipynb # the solution report for the project
+
 -README.md             # You're here!
+
 -requirements.txt      # list of libraries used
