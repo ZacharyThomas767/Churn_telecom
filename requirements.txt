@@ -1,5 +1,5 @@
 Python
-Jupyter Notebook
+Jupyter
 pandas
 numpy
 matplotlib
